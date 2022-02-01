@@ -1,6 +1,8 @@
 # Hela-Cell-Data
 Data Corresponding to HeLa-Cell-Segmentation
 
+This repository contains only the data, both as folders with tiff images and matlab files of the HeLa cells as 2000x2000x300 that have been extracted from the larger 8000x8000x519 volumes. For code and description see below.
+
 ## Parallel repository to HeLa-Cell-Segmentation
 Segmentation, Measurement and Visualisation of Nuclear Envelope of HeLa Cells observed with Electron Microscope
 
